@@ -7,7 +7,7 @@ import debounce from "lodash.debounce";
 import { EventBus, PDFViewer, PDFLinkService } from "pdfjs-dist/web/pdf_viewer";
 
 //$FlowFixMe
-import "pdfjs-dist/web/pdf_viewer.css";
+//import "pdfjs-dist/web/pdf_viewer.css";
 
 import getBoundingRect from "../lib/get-bounding-rect";
 import getClientRects from "../lib/get-client-rects";
