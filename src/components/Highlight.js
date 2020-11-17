@@ -2,8 +2,6 @@
 
 import React, { Component } from "react";
 
-import "../style/Highlight.css";
-
 import type { T_LTWH } from "../types.js";
 
 type Props = {

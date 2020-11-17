@@ -4,8 +4,6 @@ import React, { Component } from "react";
 
 import { Rnd } from "react-rnd";
 
-import "../style/AreaHighlight.css";
-
 import type { T_ViewportHighlight, T_LTWH } from "../types";
 
 type Props = {|

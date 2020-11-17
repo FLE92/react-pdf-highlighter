@@ -2,8 +2,6 @@
 
 import React, { Component } from "react";
 
-import "../style/Tip.css";
-
 type State = {
   compact: boolean,
   text: string,
