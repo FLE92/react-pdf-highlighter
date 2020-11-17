@@ -17,10 +17,6 @@ var _pdf_viewer = require("pdfjs-dist/web/pdf_viewer");
 
 require("pdfjs-dist/web/pdf_viewer.css");
 
-require("../style/pdf_viewer.css");
-
-require("../style/PdfHighlighter.css");
-
 var _getBoundingRect = _interopRequireDefault(require("../lib/get-bounding-rect"));
 
 var _getClientRects = _interopRequireDefault(require("../lib/get-client-rects"));
